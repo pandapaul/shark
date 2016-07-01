@@ -1,23 +1,23 @@
 {
-  "name": "shark",
-  "version": "0.0.1",
-  "description": "A sharky game.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"No tests yet\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pandapaul/shark.git"
-  },
-  "keywords": [
-    "shark",
-    "game"
-  ],
-  "author": "Paul & Lisa Anderson",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/pandapaul/shark/issues"
-  },
-  "homepage": "https://github.com/pandapaul/shark#readme"
+	"name": "shark",
+	"version": "0.0.1",
+	"description": "A sharky game.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"No tests yet\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pandapaul/shark.git"
+	},
+	"keywords": [
+		"shark",
+		"game"
+	],
+	"author": "Paul & Lisa Anderson",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/pandapaul/shark/issues"
+	},
+	"homepage": "https://github.com/pandapaul/shark#readme"
 }
